@@ -1,2 +1,1 @@
-# Crud Laravel
-
+Crud Laravel 5.8 sederhana disertai upload foto atau file
